@@ -1,0 +1,21 @@
+__pycache__
+_Lixo
+database/anaglyph
+database/ana
+database/side
+database/cross
+database/gif
+database/evaluation
+database/results
+database/partial
+database/*
+# database/results/*.xlsx
+# database/results/*/jpg
+# database/results/*/gif
+jlOut
+reports
+*-Andreldc.py
+venv
+.vscode
+dscqs
+env
